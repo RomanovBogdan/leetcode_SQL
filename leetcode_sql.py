@@ -92,7 +92,7 @@ def get_slug_data(name: str) -> dict:
 
 
 def _generate_leetcode_readme(data: dict, sol_dir: str):
-    header = '## leetcode'
+    header = '## leetcode\n'
     problems_table = '|Problem|Difficulty|Solution|\n|-|-|-|\n'
 
     for problem, meta in data.items():
