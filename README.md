@@ -1,5 +1,8 @@
 ## Solutions
 
+This repository is a storage of all SQL and Python tasks from Leetcode done by me for fun. 
+Kudos to @dimaglushkov for the parsing tool. 
+
 |Problem|Difficulty|Solution|
 |-|-|-|
 | [175. Combine two tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [SQL](/solutions/combine-two-tables.sql)  |
