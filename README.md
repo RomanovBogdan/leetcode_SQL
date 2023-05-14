@@ -1,6 +1,6 @@
 ## Solutions
 
-This repository is a storage of all SQL and Python tasks from Leetcode done by me for fun. 
+This repository is a storage of mostly SQL, for now, tasks from Leetcode done by me for fun. 
 Kudos to @dimaglushkov for the parsing tool. 
 
 |Problem|Difficulty|Solution|
